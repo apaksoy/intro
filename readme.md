@@ -10,5 +10,5 @@ These files are Python projects completed by Alper Paksoy towards the practice p
 assigned by chapter  in the "Automate the Boring Stuff with Python" book by Al Sweigart.\
 \
 If you need the public in-course material or the files used in the book, \
-visit [Documentation](https://automatetheboringstuff.com/).\
+visit the [web site](https://automatetheboringstuff.com/) associated with the book.
 
