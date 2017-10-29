@@ -1,4 +1,3 @@
-# ReadAl\
 An introduction Alper\'s GitHub repos. \
 \
 Last updated October 2017\
