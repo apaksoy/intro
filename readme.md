@@ -2,7 +2,7 @@ An introduction Alper\'s GitHub repos.
 
 Last updated: 30 October 2017
 
-# So, Alper, this is your GitHub Account. What\'s in it?
+# So, Alper, this is your GitHub account. What\'s in it?
 
 ## [AutomateTheBoringStuff](https://github.com/apaksoy/automatetheboringstuff)
 
