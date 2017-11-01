@@ -1,6 +1,6 @@
 An introduction Alper\'s GitHub repos.
 
-Last updated: 30 October 2017
+Last updated: November 2017
 
 # So, Alper, this is your GitHub account. What\'s in it?
 
