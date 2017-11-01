@@ -2,7 +2,7 @@ An introduction Alper\'s GitHub repos.
 
 Last updated: November 2017
 
-# This is what I mainly have in my GitHub account. Thx for taking a look!
+# This is what I have in my GitHub account. Thx for taking a look!
 
 ## [AutomateTheBoringStuff](https://github.com/apaksoy/automatetheboringstuff)
 
