@@ -6,6 +6,6 @@ Last updated: November 2017
 
 ## [AutomateTheBoringStuff](https://github.com/apaksoy/automatetheboringstuff)
 
-These are the Python projects I completed so far on the practice projects assigned in the "Automate the Boring Stuff with Python" book by Al Sweigart.
+These are the Python projects I completed so far on the practice projects assigned in the excellent Python introduction book "Automate the Boring Stuff with Python" by Al Sweigart.
 
 
