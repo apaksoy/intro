@@ -1,4 +1,4 @@
-An introduction Alper\'s GitHub repos.
+An introduction to Alper\'s GitHub repos.
 
 Last updated: November 2017
 
