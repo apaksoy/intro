@@ -1,6 +1,6 @@
 An introduction to Alper\'s GitHub repos.
 
-Last updated: November 2017
+Last updated: December 2017
 
 ### This is what I have in my GitHub account. Thx for looking!
 
