@@ -10,4 +10,4 @@ Python projects I completed so far on the practice projects assigned in the exce
 
 ## [Slicing & Dicing](https://github.com/apaksoy/slicing-dicing)
 
-Solutions to two homework questions from the linear algebra course, Linear Algebra - Foundations to Frontiers (UTAustinX: UT.5.05x), from edX.
+Solutions to various homework questions from the linear algebra course, Linear Algebra - Foundations to Frontiers (UTAustinX: UT.5.05x), from edX.
