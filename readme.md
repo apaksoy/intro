@@ -14,4 +14,4 @@ Solutions to various homework questions from the linear algebra course, Linear A
 
 ## [Alaff](https://github.com/apaksoy/alaff)
 
-Solutions to various homework questions from the advanced linear algebra course, Advanced Linear Algebra - Foundations to Frontiers (UTAustinX) from edX.
+Solutions to various homework questions and side projects from the advanced linear algebra course, Advanced Linear Algebra - Foundations to Frontiers (UTAustinX) from edX.
