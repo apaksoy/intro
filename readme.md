@@ -18,4 +18,4 @@ Solutions to various homework questions and side projects from the advanced line
 
 ## [Yatırım araçları üzerine](https://github.com/apaksoy/apaksoy.github.io)
 
-[A Turkish blog](https://apaksoy.github.io) featuring my analyses of mainstream financial assets
+[A Turkish blog](https://apaksoy.github.io) featuring my analyses of mainstream financial assets.
