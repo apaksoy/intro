@@ -1,6 +1,6 @@
 An introduction to Alper\'s GitHub repos.
 
-Last reviewed: February 2020
+Last reviewed: April 2023
 
 ### This is what I have in my GitHub account. Thx for looking!
 
@@ -15,3 +15,7 @@ Solutions to various homework questions from the linear algebra course, Linear A
 ## [Alaff](https://github.com/apaksoy/alaff)
 
 Solutions to various homework questions and side projects from the advanced linear algebra course, Advanced Linear Algebra - Foundations to Frontiers (UTAustinX) from edX.
+
+## [Yatırım araçları üzerine](https://apaksoy.github.io)
+
+A Turkish blog featuring my analyses of mainstream financial assets
