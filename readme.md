@@ -1,7 +1,5 @@
 An introduction to Alper\'s GitHub repos.
 
-Last reviewed: April 2023
-
 ### This is what I have in my GitHub account. Thx for looking!
 
 ## [AutomateTheBoringStuff](https://github.com/apaksoy/automatetheboringstuff)
@@ -19,3 +17,5 @@ Solutions to various homework questions and side projects from the advanced line
 ## [Yatırım araçları üzerine](https://github.com/apaksoy/apaksoy.github.io)
 
 [A Turkish blog](https://apaksoy.github.io) featuring my analyses of mainstream financial assets.
+<br/><br/><br/>
+Last reviewed: April 2023
