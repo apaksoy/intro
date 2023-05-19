@@ -14,8 +14,8 @@ Solutions to various homework questions from the linear algebra course, Linear A
 
 Solutions to various homework questions and side projects from the advanced linear algebra course, Advanced Linear Algebra - Foundations to Frontiers (UTAustinX) from edX.
 
-## [Yatırım araçları üzerine](https://github.com/apaksoy/apaksoy.github.io)
+## [Yatırım Defteri](https://github.com/apaksoy/apaksoy.github.io)
 
 [A Turkish blog](https://apaksoy.github.io) featuring my analyses of mainstream financial assets.
 <br/><br/><br/>
-Last reviewed: April 2023
+Last reviewed: May 2023
